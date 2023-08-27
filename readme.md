@@ -84,11 +84,11 @@ bash
 ```
 docker restart dns-server
 ```
-Testar Apontamento
+## Testar Apontamento
 Teste o apontamento usando dig para o nome de host "admin.com":
 
 ```
 dig @127.0.0.1 admin.com
 ```
 
-Lembre-se de substituir `/caminho/para/os/seus/arquivos/config` pelo caminho real e ajustar as configurações conforme necessário. Agora você pode salvar esse conteúdo em um arquivo `.md` e fazer o upload para o GitHub. Certifique-se de também incluir os detalhes específicos do seu sistema e configuração, conforme necessário.
+Lembre-se de substituir `/caminho/para/os/seus/arquivos/config` pelo caminho real e ajustar as configurações conforme necessário.
